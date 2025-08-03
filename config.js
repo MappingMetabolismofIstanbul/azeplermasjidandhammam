@@ -56,7 +56,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/Xr7B61RF/AZ1.png',
+            image: 'https://i.ibb.co/jkSkcZq4/azepler.png',
             description: '',
             location: {
                 center: [28.959499617872524,41.021459288474267],
